@@ -118,3 +118,12 @@ bash eval.sh
 
 ## Acknowledgements
 We thank the authors of [SGLang](https://github.com/sgl-project/sglang) and [Slime](https://github.com/THUDM/Slime) for their great work, and author of [R-KV](https://github.com/Zefan-Cai/R-KV) for their implementation of the compression algorithm.
+
+
+### Citation
+@article{luo2026sparse,
+  title={Sparse-RL: Breaking the Memory Wall in LLM Reinforcement Learning via Stable Sparse Rollouts},
+  author={Luo, Sijia and Zhang, Xiaokang and Hu, Yuxuan and Zhang, Bohan and Wang, Ke and Su, Jinbo and Sun, Mengshu and Liang, Lei and Zhang, Jing},
+  journal={arXiv preprint arXiv:2601.10079},
+  year={2026}
+}
