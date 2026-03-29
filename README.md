@@ -121,9 +121,11 @@ We thank the authors of [SGLang](https://github.com/sgl-project/sglang) and [Sli
 
 
 ### Citation
+```bash
 @article{luo2026sparse,
   title={Sparse-RL: Breaking the Memory Wall in LLM Reinforcement Learning via Stable Sparse Rollouts},
   author={Luo, Sijia and Zhang, Xiaokang and Hu, Yuxuan and Zhang, Bohan and Wang, Ke and Su, Jinbo and Sun, Mengshu and Liang, Lei and Zhang, Jing},
   journal={arXiv preprint arXiv:2601.10079},
   year={2026}
 }
+```
